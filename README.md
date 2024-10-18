@@ -1,6 +1,6 @@
-> # Привет-привет!
+> # Welcome
 
-> ## Мои скилы
+> ## Languages
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![NodeJS](https://shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
@@ -8,6 +8,3 @@
 ![Mongo.db](https://shields.io/badge/-Mongo.db-090909?style=for-the-badge&logo=mongodb)
 ![Python](https://shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![React](https://shields.io/badge/-React-090909?style=for-the-badge&logo=react)
-
-> ## Стата
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=three-dollars&layout=compact&theme=merko)
